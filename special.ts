@@ -15,6 +15,7 @@ arrFood= ['Cabbage', 'Potato', 'tomato'];
 let tplCountry: [number, number, number] ;
 tplCountry = [10,2, 5];
 
+//this is test comment
 
 let user = {
     firstname : 'sdfa',
